@@ -1,0 +1,16 @@
+PODS:
+  - CustomPackage (0.1.0)
+
+DEPENDENCIES:
+  - CustomPackage (from `../`)
+
+EXTERNAL SOURCES:
+  CustomPackage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomPackage: f54e1a44121e78c22d2e5547e89d8082566aeb16
+
+PODFILE CHECKSUM: e9953b8c62f4030c726483f638edfe5bf417d0f6
+
+COCOAPODS: 1.14.3

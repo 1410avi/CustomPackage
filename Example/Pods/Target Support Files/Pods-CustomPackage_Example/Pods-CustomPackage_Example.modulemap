@@ -1,0 +1,6 @@
+framework module Pods_CustomPackage_Example {
+  umbrella header "Pods-CustomPackage_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
